@@ -1,3 +1,4 @@
 # Data Science Quotes
-Drucheinander
-* "The purpose of  is insight, not numbers." Richard Hammingcomputingcomputingcomputingdasistjetztalles einn bisschen
+
+* "The purpose of computing is insight, not numbers." Richard Hammingnumbersarenice
+  
